@@ -1,0 +1,46 @@
+<svg id="Img" xmlns="http://www.w3.org/2000/svg" width="121" height="80" viewBox="0 0 121 80">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #c2d2e9;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: #e9c2cc;
+      }
+
+      .cls-4 {
+        fill: #e6d481;
+      }
+    </style>
+  </defs>
+  <g id="_1" data-name="1">
+    <path class="cls-1" d="M482.548,6098.36h37.9V6150h-37.9v-51.64Z" transform="translate(-441 -6070)"/>
+    <path class="cls-2" d="M486.922,6102.73h29.885v5.09H486.922v-5.09Z" transform="translate(-441 -6070)"/>
+    <path id="Rectangle_19_copy" data-name="Rectangle 19 copy" class="cls-2" d="M486.922,6110.73h29.885v16.72H486.922v-16.72Z" transform="translate(-441 -6070)"/>
+    <path id="Rectangle_19_copy_2" data-name="Rectangle 19 copy 2" class="cls-2" d="M486.922,6129.64h13.643v16.72H486.922v-16.72Z" transform="translate(-441 -6070)"/>
+    <path id="Rectangle_19_copy_3" data-name="Rectangle 19 copy 3" class="cls-2" d="M503.164,6129.64h13.643v16.72H503.164v-16.72Z" transform="translate(-441 -6070)"/>
+  </g>
+  <g id="_2" data-name="2">
+    <path class="cls-3" d="M524.1,6070H562v51.64H524.1V6070Z" transform="translate(-441 -6070)"/>
+    <path class="cls-2" d="M528.47,6074.36h29.885v5.09H528.47v-5.09Z" transform="translate(-441 -6070)"/>
+    <path id="Rectangle_19_copy-2" data-name="Rectangle 19 copy" class="cls-2" d="M528.47,6082.36h29.885v16.73H528.47v-16.73Z" transform="translate(-441 -6070)"/>
+    <path id="Rectangle_19_copy_2-2" data-name="Rectangle 19 copy 2" class="cls-2" d="M528.47,6101.27h13.643V6118H528.47v-16.73Z" transform="translate(-441 -6070)"/>
+    <path id="Rectangle_19_copy_3-2" data-name="Rectangle 19 copy 3" class="cls-2" d="M544.712,6101.27h13.643V6118H544.712v-16.73Z" transform="translate(-441 -6070)"/>
+  </g>
+  <g id="_3" data-name="3">
+    <path class="cls-4" d="M441,6083.09h37.9v51.64H441v-51.64Z" transform="translate(-441 -6070)"/>
+    <path class="cls-2" d="M445.373,6087.45h29.886v5.1H445.373v-5.1Z" transform="translate(-441 -6070)"/>
+    <path id="Rectangle_19_copy-3" data-name="Rectangle 19 copy" class="cls-2" d="M445.373,6095.45h29.886v16.73H445.373v-16.73Z" transform="translate(-441 -6070)"/>
+    <path id="Rectangle_19_copy_2-3" data-name="Rectangle 19 copy 2" class="cls-2" d="M445.373,6114.36h13.644v16.73H445.373v-16.73Z" transform="translate(-441 -6070)"/>
+    <path id="Rectangle_19_copy_3-3" data-name="Rectangle 19 copy 3" class="cls-2" d="M461.616,6114.36h13.643v16.73H461.616v-16.73Z" transform="translate(-441 -6070)"/>
+  </g>
+</svg>

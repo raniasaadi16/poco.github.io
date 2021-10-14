@@ -1,0 +1,51 @@
+<svg id="Img_copy" data-name="Img copy" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="121" height="80" viewBox="0 0 121 80">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e9c2cc;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: #e6d481;
+      }
+
+      .cls-4 {
+        fill: #c2d2e9;
+      }
+
+      .cls-5 {
+        fill: #849bbb;
+      }
+    </style>
+  </defs>
+  <g id="_2" data-name="2">
+    <path class="cls-1" d="M1439.1,6295H1477v51.64h-37.9V6295Z" transform="translate(-1356 -6295)"/>
+    <path class="cls-2" d="M1443.47,6299.36h29.89v5.09h-29.89v-5.09Z" transform="translate(-1356 -6295)"/>
+    <path id="Rectangle_19_copy" data-name="Rectangle 19 copy" class="cls-2" d="M1443.47,6307.36h29.89v16.73h-29.89v-16.73Z" transform="translate(-1356 -6295)"/>
+    <path id="Rectangle_19_copy_2" data-name="Rectangle 19 copy 2" class="cls-2" d="M1443.47,6326.27h13.64V6343h-13.64v-16.73Z" transform="translate(-1356 -6295)"/>
+    <path id="Rectangle_19_copy_3" data-name="Rectangle 19 copy 3" class="cls-2" d="M1459.71,6326.27h13.65V6343h-13.65v-16.73Z" transform="translate(-1356 -6295)"/>
+  </g>
+  <g id="_3" data-name="3">
+    <path class="cls-3" d="M1356,6308.09h37.9v51.64H1356v-51.64Z" transform="translate(-1356 -6295)"/>
+    <path class="cls-2" d="M1360.37,6312.45h29.89v5.1h-29.89v-5.1Z" transform="translate(-1356 -6295)"/>
+    <path id="Rectangle_19_copy-2" data-name="Rectangle 19 copy" class="cls-2" d="M1360.37,6320.45h29.89v16.73h-29.89v-16.73Z" transform="translate(-1356 -6295)"/>
+    <path id="Rectangle_19_copy_2-2" data-name="Rectangle 19 copy 2" class="cls-2" d="M1360.37,6339.36h13.65v16.73h-13.65v-16.73Z" transform="translate(-1356 -6295)"/>
+    <path id="Rectangle_19_copy_3-2" data-name="Rectangle 19 copy 3" class="cls-2" d="M1376.62,6339.36h13.64v16.73h-13.64v-16.73Z" transform="translate(-1356 -6295)"/>
+  </g>
+  <g id="_1" data-name="1">
+    <path class="cls-4" d="M1397.55,6323.36h37.9V6375h-37.9v-51.64Z" transform="translate(-1356 -6295)"/>
+    <path class="cls-2" d="M1401.92,6327.73h29.89v5.09h-29.89v-5.09Z" transform="translate(-1356 -6295)"/>
+    <path id="Rectangle_19_copy-3" data-name="Rectangle 19 copy" class="cls-5" d="M1410.92,6335.73h29.89v16.72h-29.89v-16.72Z" transform="translate(-1356 -6295)"/>
+    <path id="Rectangle_19_copy_2-3" data-name="Rectangle 19 copy 2" class="cls-2" d="M1401.92,6354.64h13.65v16.72h-13.65v-16.72Z" transform="translate(-1356 -6295)"/>
+    <path id="Rectangle_19_copy_3-3" data-name="Rectangle 19 copy 3" class="cls-2" d="M1418.16,6354.64h13.65v16.72h-13.65v-16.72Z" transform="translate(-1356 -6295)"/>
+  </g>
+  <image id="scroll" x="73" y="52" width="16" height="18" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAASCAYAAABSO15qAAAA40lEQVQ4jaXSvUpDMRjG8Z9aiuDuTQiCi4Pg1NFNR53cXNwVXHsDguAdeA1ScHFy8uMKSulQN3URHSpvOQfCoTmk9oHnJCc8+SdvEhl1cY8JjnKhNu1hWvmtLbiaGV9P+l//Afxm+sWAVCvLAj6qdi6oBLCNFwxxWZCfaT+5haafsLMMoPZFBDsZQOvBVerjuz6DE5xjo/ofF5a6G5+rZFvxdM9wWFBC+LaTrBraxE3h6qHpGgb4QW+BibWeAxB6xDsOFgS8NgeOC2uvfTqPGrsomfzQdt1buMMInw3Hk76epfAH5cNQTpe6sfwAAAAASUVORK5CYII="/>
+</svg>

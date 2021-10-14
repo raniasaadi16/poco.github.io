@@ -1,0 +1,56 @@
+<svg id="img" xmlns="http://www.w3.org/2000/svg" width="226" height="66" viewBox="0 0 226 66">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e6d481;
+      }
+
+      .cls-2 {
+        font-size: 18px;
+        font-weight: 700;
+      }
+
+      .cls-2, .cls-6 {
+        font-family: "Nunito Sans";
+      }
+
+      .cls-3 {
+        fill: #e9c2cc;
+      }
+
+      .cls-4 {
+        fill: #c2d2e9;
+      }
+
+      .cls-5 {
+        fill: #91e5a5;
+      }
+
+      .cls-6 {
+        font-size: 12px;
+        fill: #777;
+        font-weight: 300;
+      }
+    </style>
+  </defs>
+  <g>
+    <circle class="cls-1" cx="23" cy="23" r="23"/>
+    <text id="_12" data-name="12" class="cls-2" x="12.001" y="29.997">12</text>
+  </g>
+  <g id="Group_6_copy" data-name="Group 6 copy">
+    <circle class="cls-3" cx="83" cy="23" r="23"/>
+    <text id="_56" data-name="56" class="cls-2" x="72.001" y="29.997">56</text>
+  </g>
+  <g id="Group_6_copy_2" data-name="Group 6 copy 2">
+    <circle class="cls-4" cx="143" cy="23" r="23"/>
+    <text id="_02" data-name="02" class="cls-2" x="132.001" y="29.997">02</text>
+  </g>
+  <g id="Group_6_copy_3" data-name="Group 6 copy 3">
+    <circle class="cls-5" cx="203" cy="23" r="23"/>
+    <text id="_45" data-name="45" class="cls-2" x="192.001" y="29.997">45</text>
+  </g>
+  <text id="Days" class="cls-6" x="8.5" y="63.997">Days</text>
+  <text id="Hrs_copy" data-name="Hrs copy" class="cls-6" x="73.5" y="63.997">Hrs</text>
+  <text id="Min" class="cls-6" x="133.5" y="63.997">Min</text>
+  <text id="Sec" class="cls-6" x="192.5" y="63.997">Sec</text>
+</svg>

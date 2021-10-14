@@ -1,0 +1,33 @@
+<svg id="img" xmlns="http://www.w3.org/2000/svg" width="150" height="56" viewBox="0 0 150 56">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        font-size: 24px;
+      }
+
+      .cls-1 {
+        fill: #9e15c5;
+        font-family: Aclonica;
+      }
+
+      .cls-2 {
+        fill: #42e063;
+        font-family: Allan;
+      }
+
+      .cls-3 {
+        fill: #ff971c;
+        font-family: Allura;
+      }
+
+      .cls-4 {
+        fill: #15c5ae;
+        font-family: AndadaSC;
+      }
+    </style>
+  </defs>
+  <text id="ABC" class="cls-1" transform="translate(20.222 23.706) scale(1.25 1.242)">ABC</text>
+  <text id="ABC-2" data-name="ABC" class="cls-2" transform="translate(2.72 56.002) scale(1.25 1.242)">ABC</text>
+  <text id="ABC-3" data-name="ABC" class="cls-3" transform="translate(52.732 52.272) scale(1.25 1.242)">ABC</text>
+  <text id="ABC-4" data-name="ABC" class="cls-4" transform="translate(95.241 22.467) scale(1.25 1.242)">ABC</text>
+</svg>

@@ -1,0 +1,20 @@
+<svg id="_6" data-name="6" xmlns="http://www.w3.org/2000/svg" width="129" height="63" viewBox="0 0 129 63">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 24px;
+        fill: #e15a5a;
+        font-family: "Nunito Sans";
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        font-size: 30px;
+        fill: #7b5bd6;
+        font-family: "Adobe Arabic";
+      }
+    </style>
+  </defs>
+  <text id="Poco" class="cls-1" transform="translate(55.129 63.055) scale(1.366)">Poco</text>
+  <text id="بوكو" class="cls-2" transform="translate(-2.254 21.285) scale(1.366)">بوكو</text>
+</svg>

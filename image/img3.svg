@@ -1,0 +1,59 @@
+<svg id="img" xmlns="http://www.w3.org/2000/svg" width="225" height="86" viewBox="0 0 225 86">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e6d481;
+      }
+
+      .cls-2 {
+        font-size: 12px;
+        font-family: "Nunito Sans";
+        font-weight: 700;
+        text-transform: uppercase;
+      }
+
+      .cls-3, .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        fill-rule: evenodd;
+      }
+
+      .cls-5 {
+        fill: #c2d2e9;
+      }
+
+      .cls-6 {
+        fill: #e9c2cc;
+      }
+    </style>
+  </defs>
+  <g id="_1" data-name="1">
+    <rect class="cls-1" width="109" height="40"/>
+    <text id="Logo" class="cls-2" x="6.001" y="15.252">Logo</text>
+    <rect class="cls-3" x="46" y="7" width="23" height="2"/>
+    <rect id="Rectangle_22_copy" data-name="Rectangle 22 copy" class="cls-3" x="52" y="15" width="17" height="2"/>
+    <rect id="Rectangle_22_copy_2" data-name="Rectangle 22 copy 2" class="cls-3" x="52" y="23" width="17" height="2"/>
+    <rect id="Rectangle_22_copy_3" data-name="Rectangle 22 copy 3" class="cls-3" x="52" y="31" width="17" height="2"/>
+    <path id="Rectangle_22_copy_4" data-name="Rectangle 22 copy 4" class="cls-4" d="M1076,6079h23v2h-23v-2Zm7,8h16v2h-16v-2Zm0,8h16v2h-16v-2Zm0,8h16v2h-16v-2Z" transform="translate(-998 -6072)"/>
+  </g>
+  <g id="_2" data-name="2">
+    <rect class="cls-5" x="116" width="109" height="40"/>
+    <text id="Logo-2" data-name="Logo" class="cls-2" x="121.999" y="15.252">Logo</text>
+    <rect class="cls-3" x="162" y="7" width="23" height="2"/>
+    <rect id="Rectangle_22_copy-2" data-name="Rectangle 22 copy" class="cls-3" x="168" y="15" width="17" height="2"/>
+    <rect id="Rectangle_22_copy_2-2" data-name="Rectangle 22 copy 2" class="cls-3" x="168" y="23" width="17" height="2"/>
+    <rect id="Rectangle_22_copy_3-2" data-name="Rectangle 22 copy 3" class="cls-3" x="168" y="31" width="17" height="2"/>
+    <path id="Rectangle_22_copy_4-2" data-name="Rectangle 22 copy 4" class="cls-4" d="M1192,6079h23v2h-23v-2Zm7,8h16v2h-16v-2Zm0,8h16v2h-16v-2Zm0,8h16v2h-16v-2Z" transform="translate(-998 -6072)"/>
+  </g>
+  <g id="_3" data-name="3">
+    <rect class="cls-6" x="50" y="46" width="109" height="40"/>
+    <text id="Logo-3" data-name="Logo" class="cls-2" x="55.999" y="61.253">Logo</text>
+    <rect class="cls-3" x="96" y="53" width="23" height="2"/>
+    <rect id="Rectangle_22_copy-3" data-name="Rectangle 22 copy" class="cls-3" x="102" y="61" width="17" height="2"/>
+    <rect id="Rectangle_22_copy_2-3" data-name="Rectangle 22 copy 2" class="cls-3" x="102" y="69" width="17" height="2"/>
+    <rect id="Rectangle_22_copy_3-3" data-name="Rectangle 22 copy 3" class="cls-3" x="102" y="77" width="17" height="2"/>
+    <path id="Rectangle_22_copy_4-3" data-name="Rectangle 22 copy 4" class="cls-4" d="M1126,6125h23v2h-23v-2Zm7,8h16v2h-16v-2Zm0,8h16v2h-16v-2Zm0,8h16v2h-16v-2Z" transform="translate(-998 -6072)"/>
+  </g>
+</svg>

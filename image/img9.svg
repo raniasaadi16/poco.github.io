@@ -1,0 +1,35 @@
+<svg id="_9" data-name="9" xmlns="http://www.w3.org/2000/svg" width="193" height="54" viewBox="0 0 193 54">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #c2d2e9;
+      }
+
+      .cls-2, .cls-3, .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill-rule: evenodd;
+      }
+
+      .cls-4 {
+        fill: #e6d481;
+      }
+
+      .cls-5 {
+        font-size: 10px;
+        font-family: "Nunito Sans";
+        font-weight: 800;
+        text-transform: uppercase;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" width="193" height="17"/>
+  <rect class="cls-2" x="102" y="8" width="17.563" height="3"/>
+  <path id="Rectangle_24_copy" data-name="Rectangle 24 copy" class="cls-3" d="M527.932,6533h17.555v3H527.932v-3Z" transform="translate(-405 -6525)"/>
+  <path id="Rectangle_24_copy_2" data-name="Rectangle 24 copy 2" class="cls-3" d="M549.188,6533h17.556v3H549.188v-3Z" transform="translate(-405 -6525)"/>
+  <rect id="Rectangle_24_copy_3" data-name="Rectangle 24 copy 3" class="cls-2" x="165.438" y="8" width="17.562" height="3"/>
+  <rect class="cls-4" x="82" y="17" width="102" height="37"/>
+  <text id="Logo" class="cls-5" x="6.001" y="12.667">Logo</text>
+</svg>
